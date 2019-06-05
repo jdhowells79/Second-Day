@@ -6,8 +6,9 @@ Second Day Project
 <html>
 
 <head>
-<meta chraset=UTF-8>
-<title>Second Day Test</title>
+  <meta chraset=UTF-8>
+  <title>Second Day Test</title>
+</head>
 
 <body>
 
